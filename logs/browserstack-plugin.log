@@ -1,0 +1,185 @@
+19:03:10.694 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+19:03:10.701 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=dZmyMax2XdyVvet69u7m, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=warriorshourya_AxSnJz, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.8]
+19:06:48.744 [Worker-17: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:06:48.748 [Worker-17: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:06:48.751 [Worker-17: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:06:48.752 [Worker-17: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:11:52.915 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:11:52.915 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:11:52.917 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:11:52.917 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:11:52.918 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:11:52.920 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:12:11.580 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:12:11.580 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:11.582 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:12:11.582 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:12:11.582 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:11.584 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:12:15.549 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:12:15.550 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:15.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:12:15.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:12:15.551 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:15.552 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:12:16.873 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:12:16.873 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:16.874 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:12:16.874 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:12:16.874 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:12:16.875 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:13:09.910 [Worker-20: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:13:09.912 [Worker-20: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:13:09.916 [Worker-20: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:09.917 [Worker-20: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:13:57.865 [Worker-12: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:13:57.866 [Worker-12: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:13:57.868 [Worker-12: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:57.868 [Worker-12: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:14:27.977 [Worker-21: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:14:27.979 [Worker-21: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:14:27.985 [Worker-21: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:14:27.987 [Worker-21: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:24:48.705 [Worker-25: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:24:48.706 [Worker-25: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:24:48.708 [Worker-25: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:24:48.709 [Worker-25: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:27:10.060 [Worker-24: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:27:10.061 [Worker-24: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:27:10.063 [Worker-24: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:27:10.064 [Worker-24: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:49:32.549 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:49:32.549 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:49:32.550 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:49:32.550 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:49:32.551 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:49:32.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:49:35.181 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:49:35.181 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:49:35.182 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:49:35.182 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:49:35.182 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:49:35.183 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:50:10.539 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:50:10.539 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:50:10.541 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:50:10.541 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:50:10.541 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:50:10.542 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:52:31.193 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:52:31.193 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:52:31.193 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:52:31.194 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:52:31.194 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:52:31.194 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:52:36.852 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:52:36.852 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:52:36.853 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:52:36.853 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:52:36.853 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:52:36.854 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:53:33.166 [Worker-25: Launching testngTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:53:33.168 [Worker-25: Launching testngTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+19:54:02.312 [Worker-30: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:54:02.313 [Worker-30: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:54:02.316 [Worker-30: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:02.318 [Worker-30: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:54:11.980 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:54:11.980 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:11.981 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:54:11.982 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:54:11.982 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:11.982 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:54:26.418 [Worker-35: Launching A (1)] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:54:26.419 [Worker-35: Launching A (1)] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:54:26.420 [Worker-35: Launching A (1)] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:26.421 [Worker-35: Launching A (1)] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+19:54:51.756 [main] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:54:54.509 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:54:54.509 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:54.511 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:54:54.511 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:54:54.511 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:54:54.512 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:55:32.658 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:55:32.658 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:55:32.659 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:55:32.660 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:55:32.660 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:55:32.661 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:56:01.944 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:56:01.944 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:56:01.944 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:56:01.945 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:56:01.945 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:56:01.946 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:56:30.047 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:56:30.047 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:56:30.048 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:56:30.048 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:56:30.048 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:56:30.049 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:57:15.764 [Worker-25: Launching AddListTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:57:15.765 [Worker-25: Launching AddListTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:57:15.767 [Worker-25: Launching AddListTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:15.767 [Worker-25: Launching AddListTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:57:29.134 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:57:29.134 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:29.135 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:57:29.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:57:29.136 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:29.137 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:57:35.947 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:57:35.948 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:35.949 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:57:35.949 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:57:35.949 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:35.950 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:57:40.055 [Worker-36: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+19:57:40.056 [Worker-36: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+19:57:40.058 [Worker-36: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:57:40.058 [Worker-36: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+19:59:13.573 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:59:13.573 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:13.574 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:59:13.575 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:59:13.575 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:13.576 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:59:16.050 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:59:16.050 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:16.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:59:16.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:59:16.053 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:16.053 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+19:59:57.215 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:59:57.215 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:57.216 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+19:59:57.217 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:59:57.217 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:59:57.217 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+20:00:01.023 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:00:01.024 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+20:00:01.025 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:00:01.026 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+20:01:28.499 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:01:28.499 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:01:28.500 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+20:01:28.501 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:01:28.501 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:01:28.502 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+20:06:41.543 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:06:41.544 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+20:06:41.546 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:06:41.547 [Worker-40: Launching AppTest_testng2.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+20:08:10.439 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:08:10.439 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:08:10.441 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+20:08:10.442 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:08:10.442 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:08:10.444 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest
+20:11:00.976 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:11:00.977 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:11:00.977 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppTest
+20:11:00.978 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:11:00.978 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:11:00.979 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppTest

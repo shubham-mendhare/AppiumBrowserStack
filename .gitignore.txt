@@ -1,0 +1,17 @@
+# Ignore video files
+*.mp4
+*.flv
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# Ignore audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+
+# Ignore log files
+*.log
