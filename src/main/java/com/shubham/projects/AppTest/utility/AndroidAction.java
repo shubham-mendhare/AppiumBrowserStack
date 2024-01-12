@@ -1,4 +1,5 @@
 package com.shubham.projects.AppTest.utility;
+import java.time.Duration;
 import java.util.ArrayList;
 
 import org.openqa.selenium.JavascriptExecutor;
@@ -9,9 +10,12 @@ import org.openqa.selenium.support.PageFactory;
 import com.google.common.collect.ImmutableMap;
 
 import io.appium.java_client.AppiumBy;
+import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+import io.appium.java_client.touch.LongPressOptions;
+import io.appium.java_client.touch.offset.ElementOption;
 
 public class AndroidAction extends AppiumUtils {
 	
@@ -63,5 +67,14 @@ public class AndroidAction extends AppiumUtils {
 
 		
 
+	}
+	
+	public void longPressElement(WebElement element) {
+	    new TouchAction(driver)
+	        .longPress(LongPressOptions.longPressOptions()
+	            .withElement(ElementOption.element(element))
+	            .withDuration(Duration.ofSeconds(2)))
+	        .release()
+	        .perform();
 	}
 }

@@ -53,7 +53,8 @@ public class AppList extends AndroidAction {
 	}
 	
 	public void EditList(String Updatedlistdetails) {
-		longPressAction(Addeditem);
+	//	longPressAction(Addeditem);
+		longPressElement(Addeditem);
 		EDIT.click();
 		InputTextField.click();
 		driver.hideKeyboard();
@@ -62,7 +63,8 @@ public class AppList extends AndroidAction {
 	}
 	
 	public void DeleteList() {
-		longPressAction(Addeditem);
+	//	longPressAction(Addeditem);
+		longPressElement(Addeditem);
 		DELETE.click();
 		YES.click();
 	}

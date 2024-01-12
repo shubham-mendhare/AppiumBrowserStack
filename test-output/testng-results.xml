@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-11T20:06:44 IST" name="Suite" finished-at="2024-01-11T20:07:53 IST" duration-ms="69960">
+  <suite started-at="2024-01-12T16:03:14 IST" name="Suite" finished-at="2024-01-12T16:04:29 IST" duration-ms="74206">
     <groups>
     </groups>
-    <test started-at="2024-01-11T20:06:44 IST" name="Test" finished-at="2024-01-11T20:07:53 IST" duration-ms="69960">
+    <test started-at="2024-01-12T16:03:14 IST" name="Test" finished-at="2024-01-12T16:04:29 IST" duration-ms="74206">
       <class name="com.shubham.projects.AppTest.AddListTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:06:44 IST" name="setup" finished-at="2024-01-11T20:07:10 IST" duration-ms="26778" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:03:15 IST" name="setup" finished-at="2024-01-12T16:03:42 IST" duration-ms="27066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:10 IST" name="preSetup" finished-at="2024-01-11T20:07:10 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:03:42 IST" name="preSetup" finished-at="2024-01-12T16:03:42 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method signature="AddListtest()[pri:1, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:10 IST" name="AddListtest" finished-at="2024-01-11T20:07:20 IST" duration-ms="9795" status="PASS">
+        <test-method signature="AddListtest()[pri:1, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:03:42 IST" name="AddListtest" finished-at="2024-01-12T16:03:51 IST" duration-ms="9057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddListtest -->
-        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:20 IST" name="preSetup" finished-at="2024-01-11T20:07:20 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:03:51 IST" name="preSetup" finished-at="2024-01-12T16:03:51 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method signature="EditListtest()[pri:2, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:20 IST" name="EditListtest" finished-at="2024-01-11T20:07:33 IST" duration-ms="13142" status="PASS">
+        <test-method signature="EditListtest()[pri:2, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:03:51 IST" name="EditListtest" finished-at="2024-01-12T16:04:06 IST" duration-ms="15313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EditListtest -->
-        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:33 IST" name="preSetup" finished-at="2024-01-11T20:07:33 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:04:06 IST" name="preSetup" finished-at="2024-01-12T16:04:06 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method signature="DeleteListtest()[pri:3, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:33 IST" name="DeleteListtest" finished-at="2024-01-11T20:07:39 IST" duration-ms="5758" status="PASS">
+        <test-method signature="DeleteListtest()[pri:3, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:04:06 IST" name="DeleteListtest" finished-at="2024-01-12T16:04:12 IST" duration-ms="6296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteListtest -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@fd0e5b6]" started-at="2024-01-11T20:07:39 IST" name="TearDown" finished-at="2024-01-11T20:07:53 IST" duration-ms="14433" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.shubham.projects.AppTest.AddListTest@751d3241]" started-at="2024-01-12T16:04:12 IST" name="TearDown" finished-at="2024-01-12T16:04:29 IST" duration-ms="16383" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
