@@ -96,13 +96,13 @@ public class BaseTest extends AppiumUtils {
 			service.stop();
 		}
 		System.out.println("Starting the server.");
-		
-//		String ReportPath= System.getProperty("user.dir")+"//reports//index.html";		
-//		EmailReport(prop.get("recipient").toString(), prop.get("sender").toString(), prop.get("username").toString(), 
-//		prop.get("password").toString(), prop.get("subject").toString(), prop.get("message").toString().replace("<br>", "\n"), ReportPath, 
-//		prop.get("smpthost").toString(), prop.get("smptport").toString());
-		
 		startServer();
+		
+		String ReportPath= System.getProperty("user.dir")+"//reports//index.html";		
+		EmailReport(prop.get("recipient").toString(), prop.get("sender").toString(), prop.get("username").toString(), 
+		prop.get("password").toString(), prop.get("subject").toString(), prop.get("message").toString().replace("<br>", "\n"), ReportPath, 
+		prop.get("smpthost").toString(), prop.get("smptport").toString());
+		
 		exitConfigFile();
 
 	}
