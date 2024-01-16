@@ -23,4 +23,20 @@ To stop executing script on browserstack go to pom.xml and comment below line of
     -javaagent:${com.browserstack:browserstack-java-sdk:jar}
  </argLine>**
 
+**Integrated email module to send finale reports. please fill up below details in data.properties files 
+located at /AppTest/src/main/java/com/shubham/projects/AppTest/Resources/data.properties
+
+To enable email module change email_Module=true in data.properties**
+		
+**data.properties**
+ ###########################Email address details#########################################
+username=
+password=
+smpthost=
+smptport=
+sender=
+recipient=
+subject=Automation testing reports
+message=Hi Team,<br>please check below attached automation report details,<br> Thanks
+
 Sample app-release.apk is already added project directory
