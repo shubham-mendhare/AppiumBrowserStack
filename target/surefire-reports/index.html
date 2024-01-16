@@ -166,15 +166,16 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;com.shubham.projects.AppTest.utility.Listeners&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot; verbose=&quot;0&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test-0&quot; verbose=&quot;0&quot;&gt;
+    &lt;parameter name=&quot;platform&quot; value=&quot;0&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.shubham.projects.AppTest.AddListTest&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Test --&gt;
+  &lt;/test&gt; &lt;!-- Test-0 --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -186,7 +187,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (1 class)</span>
+                <span class="test-name">Test-0 (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -214,22 +215,22 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'AddListtest')
+data.setCell(0, 1, 'EditListtest')
 data.setCell(0, 2, 'com.shubham.projects.AppTest.AddListTest')
-data.setCell(0, 3, 13103);
+data.setCell(0, 3, 16231);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'EditListtest')
+data.setCell(1, 1, 'AddListtest')
 data.setCell(1, 2, 'com.shubham.projects.AppTest.AddListTest')
-data.setCell(1, 3, 13068);
+data.setCell(1, 3, 12876);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'DeleteListtest')
 data.setCell(2, 2, 'com.shubham.projects.AppTest.AddListTest')
-data.setCell(2, 3, 5903);
+data.setCell(2, 3, 9141);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 32 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -262,31 +263,31 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">preSetup</span>
-                <span class="method-start">30372 ms</span>
+                <span class="method-start">44368 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">AddListtest</span>
-                <span class="method-start">30377 ms</span>
+                <span class="method-start">44627 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method before">
                 <span class="method-name">preSetup</span>
-                <span class="method-start">43503 ms</span>
+                <span class="method-start">58095 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">EditListtest</span>
-                <span class="method-start">43505 ms</span>
+                <span class="method-start">58234 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method before">
                 <span class="method-name">preSetup</span>
-                <span class="method-start">56580 ms</span>
+                <span class="method-start">75540 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">DeleteListtest</span>
-                <span class="method-start">56581 ms</span>
+                <span class="method-start">75665 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">TearDown</span>
-                <span class="method-start">62486 ms</span>
+                <span class="method-start">85183 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

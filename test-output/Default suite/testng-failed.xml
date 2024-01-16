@@ -3,14 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.shubham.projects.AppTest.SettingsTest">
+      <class name="com.shubham.projects.AppTest.AddListTest">
         <methods>
+          <include name="EditListtest"/>
           <include name="setup"/>
+          <include name="AddListtest"/>
           <include name="preSetup"/>
+          <include name="DeleteListtest"/>
           <include name="TearDown"/>
-          <include name="SettingsTitleCheck"/>
         </methods>
-      </class> <!-- com.shubham.projects.AppTest.SettingsTest -->
+      </class> <!-- com.shubham.projects.AppTest.AddListTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

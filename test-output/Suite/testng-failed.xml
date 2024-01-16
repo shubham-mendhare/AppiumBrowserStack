@@ -10,8 +10,8 @@
         <methods>
           <include name="EditListtest"/>
           <include name="setup"/>
-          <include name="DeleteListtest"/>
           <include name="preSetup"/>
+          <include name="DeleteListtest"/>
           <include name="AddListtest"/>
           <include name="TearDown"/>
         </methods>

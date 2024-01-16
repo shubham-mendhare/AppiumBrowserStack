@@ -96,7 +96,7 @@ public class Listeners extends AppiumUtils implements ITestListener{
 		// TODO Auto-generated method stub
 		
 	}
-
+	
 	@Override
 	public void onFinish(ITestContext context) {
 		// TODO Auto-generated method stub
@@ -128,5 +128,15 @@ public class Listeners extends AppiumUtils implements ITestListener{
 //	        fileWriter.close();
 //	    }
 //
+
+//	@Override
+//	public void sendAutomationReports(String recipient, String sender, String usrname, String usrpassword, String subj,
+//			String msg, String AttachmentPath) {
+//		// TODO Auto-generated method stub
+//		
+//		String ReportPath= System.getProperty("user.dir")+"//reports//index.html";
+//		super.sendAutomationReports(prop.get("recipient").toString(), prop.get("sender").toString(), prop.get("username").toString(), 
+//				prop.get("password").toString(), prop.get("subject").toString(), prop.get("message").toString(), ReportPath);
+//	}
 	
 }
